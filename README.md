@@ -18,13 +18,13 @@ Bridging the thrill of IPL cricket with the science of data, this analytics proj
 
 🛠️ Tools & Technologies
 
-**Microsoft Excel** — Data cleaning, data filtering, missing-value handling, and preliminary data validation.
+- Microsoft Excel — Data cleaning, data filtering, missing-value handling, and preliminary data validation.
 
-**PostgreSQL** — SQL queries, data validation, subqueries, and cross-checking data consistency.
+- PostgreSQL — SQL queries, data validation, subqueries, and cross-checking data consistency.
 
-**Microsoft Power BI** — Data modeling, DAX measures, interactive dashboards, and data visualization.
+- Microsoft Power BI — Data modeling, DAX measures, interactive dashboards, and data visualization.
 
-**GitHub** — Project documentation, repository management, and version control.
+- GitHub — Project documentation, repository management, and version control.
 
 📊 Dashboard Modules
 
