@@ -1,6 +1,7 @@
 # 🏏 The IPL Dugout
 
 📌 Project Overview
+
 Bridging the thrill of IPL cricket with the science of data, this analytics project is powered by Excel , SQL and Power BI, featuring structured players data, performance metrics, batting and bowling performance strategies, matchup dynamics, and interactive visual storytelling.
 
 **Built with a passion for cricket and data analytics.**
@@ -18,8 +19,11 @@ Bridging the thrill of IPL cricket with the science of data, this analytics proj
 🛠️ Tools & Technologies
 
 **Microsoft Excel** — Data cleaning, data filtering, missing-value handling, and preliminary data validation.
+
 **PostgreSQL** — SQL queries, data validation, subqueries, and cross-checking data consistency.
+
 **Microsoft Power BI** — Data modeling, DAX measures, interactive dashboards, and data visualization.
+
 **GitHub** — Project documentation, repository management, and version control.
 
 📊 Dashboard Modules
