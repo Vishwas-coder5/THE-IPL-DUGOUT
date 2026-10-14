@@ -28,15 +28,15 @@ Bridging the thrill of IPL cricket with the science of data, this analytics proj
 
 📊 Dashboard Modules
 
-IPL Overview — A high-level view of IPL player data and key statistics.
+- IPL Overview — A high-level view of IPL player data and key statistics.
 
-IPL Master Data — Players profiles, career stats, and players attributes.
+- IPL Master Data — Players profiles, career stats, and players attributes.
 
-Batting Analysis — Batting performance metrics and players season wise stats comparisons.
+- Batting Analysis — Batting performance metrics and players season wise stats comparisons.
 
-Bowling Analysis — Bowling statistics and performance evaluation.
+- Bowling Analysis — Bowling statistics and performance evaluation.
 
-Batsmen vs Bowlers & Batting Phases — Matchup analysis and performance across different phases of an innings.
+- Batsmen vs Bowlers & Batting Phases — Matchup analysis and performance across different phases of an innings.
 
 🔍 Key Analytical Areas
 
