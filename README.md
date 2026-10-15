@@ -28,15 +28,15 @@ Bridging the thrill of IPL cricket with the science of data, this analytics proj
 
 📊 Dashboard Modules
 
-- IPL Overview — A high-level view of IPL player data and key statistics.
+- Inside the Dugout (IPL Overview) — An overview of the IPL player landscape, highlighting player roles, nationalities, and capped vs. uncapped classifications through interactive Power BI visuals. It offers a consolidated view of player demographics and composition across the league.
 
 - IPL Master Data — Players profiles, career stats, and players attributes.
 
-- Batting Analysis — Batting performance metrics and players season wise stats comparisons.
+- The Batting Chronicle (Batting Analysis) — Where every run tells a story and every boundary makes history. Dive into IPL batting analytics to uncover top run-scorers, strike-rate leaders, batting averages, milestones, and season-wise scoring trends through interactive Power BI visualizations.
 
-- Bowling Analysis — Bowling statistics and performance evaluation.
+- The Wicket Warfare (Bowling Analysis) — Where precision meets pace and every wicket changes the game. Explore IPL bowling performances through wickets taken, economy rates, bowling averages, and strike rates to uncover leading bowlers and their impact across seasons.
 
-- Batsmen vs Bowlers & Batting Phases — Matchup analysis and performance across different phases of an innings.
+- The Duel & The Dynamics (Batsmen vs Bowlers & Batting Phases) — Where individual rivalries meet the rhythm of the game. Uncover batter-versus-bowler duels and analyse batting contributions across different phases of an IPL innings to reveal player matchups, scoring patterns, and performance dynamics through interactive Power BI insights.
 
 🔍 Key Analytical Areas
 
